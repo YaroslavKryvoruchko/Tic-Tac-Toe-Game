@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 
-Tic-Tac-Toe Game
+Tic-Tac-Toe Game </br>
 Personal Project | React, HTML, CSS, JavaScript
 
 Developed an interactive Tic-Tac-Toe game using React, showcasing component-based architecture and dynamic UI rendering.
